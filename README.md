@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{sseho}?pet-id=1" width="1000" height="400"/>
+  <img src="https://render.gitanimals.org/farms/{sseho}"/>
 </a>
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&desc=Seho's%20Github%20Profile&fontSize=70)
